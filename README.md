@@ -16,15 +16,12 @@ This repository implements a **thermal comfort controller** based on **Fanger’
 1. Clone the repo or download the notebook:
    ```bash
    git clone https://github.com/<your-username>/PMV-Based-Controller-Using-RL.git
-````
 2. Install dependencies:
    ```bash
    pip install numpy matplotlib scikit-learn
-   ```
 3. Open the notebook:
    ```bash
    jupyter notebook Fanger_model_based_controller.ipynb
-   ```
 4. Run all cells to reproduce the results.
 
 ## 📜 License
