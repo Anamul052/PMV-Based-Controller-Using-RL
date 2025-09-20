@@ -15,7 +15,7 @@ This repository implements a **thermal comfort controller** based on **Fanger’
 ## Quick Start
 1. Clone the repo or download the notebook:
    ```bash
-   git clone https://github.com/<your-username>/PMV-Based-Controller-Using-RL.git
+   git clone https://github.com/Anamul052/PMV-Based-Controller-Using-RL.git
 2. Install dependencies:
    ```bash
    pip install numpy matplotlib scikit-learn
