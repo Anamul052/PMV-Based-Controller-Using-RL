@@ -24,7 +24,7 @@ This repository implements a **thermal comfort controller** based on **Fanger’
    jupyter notebook Fanger_model_based_controller.ipynb
 4. Run all cells to reproduce the results.
 
-## 📜 License
+## License
 
 MIT License – feel free to use, modify, and share.
 
